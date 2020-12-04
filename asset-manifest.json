@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShawKai91/Capstone-Frontend-faf/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ShawKai91/Capstone-Frontend-faf/static/js/main.6976eabf.chunk.js",
+    "main.js.map": "/ShawKai91/Capstone-Frontend-faf/static/js/main.6976eabf.chunk.js.map",
+    "runtime-main.js": "/ShawKai91/Capstone-Frontend-faf/static/js/runtime-main.718cd599.js",
+    "runtime-main.js.map": "/ShawKai91/Capstone-Frontend-faf/static/js/runtime-main.718cd599.js.map",
+    "static/js/2.7599c84a.chunk.js": "/ShawKai91/Capstone-Frontend-faf/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/ShawKai91/Capstone-Frontend-faf/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/ShawKai91/Capstone-Frontend-faf/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/ShawKai91/Capstone-Frontend-faf/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/ShawKai91/Capstone-Frontend-faf/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ShawKai91/Capstone-Frontend-faf/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/ShawKai91/Capstone-Frontend-faf/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ShawKai91/Capstone-Frontend-faf/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718cd599.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6976eabf.chunk.js"
+  ]
+}
